@@ -1,0 +1,46 @@
+.charArticle{
+    border: 5px solid black;
+    border-radius: 8px;
+    margin: 5px;
+    background-color: white;
+}
+
+.charList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#title{
+    text-align: center;
+}
+
+#filters{
+    text-align: center;
+}
+
+html{
+    background-color:rgb(218, 224, 161);
+}
+
+#buttons * {
+    font-weight: 700;
+    margin-right:10px;
+}
+
+#rnd{
+    margin-left:10px;
+    margin-bottom:10px;
+    background-color: rgb(24, 199, 24);
+    font-weight: bold;
+}
+
+#data{
+    max-width: 300px;
+    flex-wrap:wrap;
+}
+
+#fact{
+    margin: 10px;
+    text-align: center;
+}
