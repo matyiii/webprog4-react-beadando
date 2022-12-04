@@ -1,4 +1,4 @@
 Webrog4 react beadando  
-Command to run:
-  1.npm install
-  2.npm start
+Command to run:  
+      1.npm install  
+      2.npm start
